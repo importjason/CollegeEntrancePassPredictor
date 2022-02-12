@@ -7,4 +7,5 @@ CEPP is the program I made for predicting my pass/fail of Korean college entranc
 <img width="999" alt="스크린샷 2022-02-12 오후 10 48 21" src="https://user-images.githubusercontent.com/98376834/153713952-f1d02a55-e7fc-4aaa-a62e-14068dd94cbe.png">
 
 ![다운로드 (1)](https://user-images.githubusercontent.com/98376834/153714455-f2811819-86ac-4704-89de-63930eb8696d.jpeg)
+
 <진학사 합격예측 서비스>
