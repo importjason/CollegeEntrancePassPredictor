@@ -1,4 +1,4 @@
-# CollegeEntrancePassPredictor / 정시 합불 예측기
+# CollegeEntrancePassPredictor / 정시 합불 예측기 (2020.01)
 
 CEPP is the program I made for predicting my pass/fail of Korean college entrance. It is based on the data from Jinhaksa, a Korean college application service. Just put some information about the recruitment in, and it will tell if you are likely to be admitted, admitted additionally, or rejected. The images below are screenshots of CEPP and Jinhaksa.
 
